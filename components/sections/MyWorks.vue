@@ -7,7 +7,7 @@
         </div>
       </h2>
       <div class="container">
-        <div class="px-5 d-flex flex-wrap w-100 justify-sm-center justify-lg-start">
+        <div class="px-5 d-flex flex-wrap w-100 justify-center justify-lg-start">
           <Workcard
             class="mr-md-3 work-card"
             v-for="(work, idx) in myWorks"

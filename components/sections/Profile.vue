@@ -25,7 +25,7 @@
                 <span class="anim"><span class="enter">Tentang Saya</span></span>
               </div>
             </h2>
-            <blockquote class="blockquote px-16" v-html="description"></blockquote>
+            <blockquote class="blockquote px-md-16 px-6" v-html="description"></blockquote>
           </v-flex>
           <v-flex class="d-flex justify-center">
             <v-btn class='download-btn mt-5'>
